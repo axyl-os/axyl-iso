@@ -40,9 +40,11 @@
 <br><br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/i3-shadows.svg" alt="i3" width=90px>
+  <img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/i3-shadows.svg" alt="i3" width=90px></a>
   <img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/bspwm.svg" alt="bspwm" width=90px>
   <img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/dwm-shadows.svg" alt="dwm" width=90px>
+  <img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/xmonad.svg" alt="xmonad" width=90px>
+  <img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/qtile-shadows.svg" alt="qtile" width=90px>
 </p>
 
 ## Contents
