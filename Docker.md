@@ -19,4 +19,4 @@ Run and build the Axyl ISO and put the outputted ISO in a Docker volume.
 
 Afterwards, you extract the ISO into the home directory:
 
-`sudo mv /var/lib/docker/volumes/axyl-vol/data/* ~/`
+`sudo mv /var/lib/docker/volumes/axyl-vol/_data/* ~/`
