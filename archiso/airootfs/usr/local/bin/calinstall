@@ -3,6 +3,6 @@
 if wget -q --tries=10 --timeout=20 --spider https://github.com; then
     devour sudo -E calamares
 else
-    notify-send -a "Axyl OS Installer" -t 10000 "Installer cannot continue without an internet connection."
+    notify-send -a "Axyl OS Installer" -t 10000 -u Critical "Installer cannot continue without an internet connection."
 fi
 

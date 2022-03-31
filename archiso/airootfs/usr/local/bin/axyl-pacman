@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
+
 echo "#################################"
-echo "Start axyl-before"
+echo "Start axyl-pacman"
 echo "#################################"
 
 echo "Changing into our own linux.preset"
@@ -13,6 +14,6 @@ pacman-key --init
 pacman-key --populate
 
 echo "#################################"
-echo "End axyl-before"
+echo "End axyl-pacman"
 echo "#################################"
-rm -f /usr/local/bin/axyl-before
+rm -f /usr/local/bin/axyl-pacman
