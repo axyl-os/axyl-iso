@@ -22,9 +22,14 @@ if [[ -d ${_iso} ]]; then
 fi
 
 ## Delete all existing Docker Images
+#echo "+---------------------->>"
+#echo "[*] Delete all existing Docker Images..."
+#yes | docker system prune -a
+
+## Only Delete axyl-build Docker Image
 echo "+---------------------->>"
-echo "[*] Delete all existing Docker Images..."
-yes | docker system prune -a
+echo "[*] Delete 'axyl-build' Docker Image..."
+docker rmi --force axyl-build
 
 ## Building the Docker Image
 echo "+---------------------->>"
