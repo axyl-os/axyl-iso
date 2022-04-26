@@ -12,7 +12,7 @@ _user=`echo ${SUDO_USER:-$(whoami)}`
 _gid=`echo ${SUDO_GID}`
 _group=`cat /etc/group | grep ${_gid} | cut -d: -f1 | head -1`
 _path="/var/lib/docker/volumes/axyl-vol/_data"
-_iso="/home/${_user}/Axyl-Iso"
+_iso="$(pwd)/Axyl-Iso"
 
 ## Delete existing Axyl-Iso directory from home user
 echo "+---------------------->>"
