@@ -1,4 +1,4 @@
-FROM archlinux:latest
+FROM gabrielmatthews/archbtw:latest
 
 WORKDIR /axyl-iso
 
@@ -10,7 +10,7 @@ RUN [ "sed", "-i", "s/NoProgressBar/#NoProgressBar/g", "/etc/pacman.conf" ]
 RUN [ "sed", "-i", "s/#Color/Color/g", "/etc/pacman.conf" ]
 
 # Install build dependencies
-RUN pacman -Syu --noconfirm archiso mkinitcpio-archiso git squashfs-tools
+RUN pacman -Syyu --needed --noconfirm archiso mkinitcpio-archiso git squashfs-tools
 
 # In the container, build the ISO
 CMD mkarchiso -v -w ./work -o ./out ./archiso
