@@ -223,6 +223,7 @@ libxinerama
 linux-headers
 lxdm-gtk3
 make
+npm
 oh-my-zsh-git
 polybar
 xdg-utils
