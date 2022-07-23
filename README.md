@@ -89,9 +89,12 @@ XMonad <br><img src="https://axyl-os.github.io/assets/img/window-managers/xmonad
 ## 🎁 Installation
 <img src="https://user-images.githubusercontent.com/39676098/141447471-75b2f8ee-43dd-4c0b-ac59-a3964ed618d8.png" align=right width=400px>
 
+**Recommended:** _See the `installation-scripts` directory (after cloning, of course)for build scripts to make your own arcolinux-esque iso_
+-OR-
+
 [Download](https://github.com/axyl-os/axyl-iso/releases) the latest Axyl release from the Releases section.
 
-Once you've downloaded the `.iso` file, flash the ISO image into a portable drive, like a flash drive. We recommend using [balenaEtcher](https://www.balena.io/etcher/) for this task.
+Once you've obtained an `.iso` file, flash the ISO image into a portable drive, like a flash drive. We recommend using [balenaEtcher](https://www.balena.io/etcher/) for this task.
 
 Then, boot from the flash drive from the BIOS/UEFI.
 
