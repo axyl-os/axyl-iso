@@ -53,6 +53,7 @@
 - [🎁 Installation](#install)
 - [🖥 Keybindings](#keybinds)
 - [❓ Getting Help](#techsupport)
+- [🗳️ Post-Install Guide](#post)
 
 <a id="gal"></a>
 ## 📷 At First Glance
@@ -141,6 +142,7 @@ All default WMs in Axyl come with the same set of basic keybindings:
 
 For the keybindings specific to **bspwm**, **dwm**, **XMonad** and **Qtile** refer to [this guide](./keybindings.md).
 
+
 <a id="techsupport"></a>
 ## ❓ Getting Help
 
@@ -149,3 +151,11 @@ Axyl is built on top of Arch Linux. For documentation on [pacman](https://wiki.a
 If you need help or tech support for your Axyl installation, feel free to file an issue in our [issue tracker](https://github.com/axyl-os/axyl-iso/issues) so we can assist you.
 
 You may also join Axyl's [Discord server](https://discord.gg/qAXMkQdwjj) to ask for tech support and general inquiries.
+
+<a id="post"></a>
+## 🗳️ Post-Install Guide
+
+A list of packages can be found in the `archiso` directory. Look for a `packages.x86_64` file, for a comprehensive list.
+
+Here's a brief overview of the main tools with relevent Arch Linux Wiki pages and other config tips:
+-Alacritty=[ALW](https://wiki.archlinux.org/title/Alacritty)
