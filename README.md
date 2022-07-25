@@ -184,7 +184,7 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
   14. htop      = [.dev](https://htop.dev/) | [GitHub](https://github.com/htop-dev/htop) | [Wikipedia](https://en.wikipedia.org/wiki/Htop)
   15.  j4-dmenu = [AUR](https://aur.archlinux.org/packages/j4-dmenu-desktop) | [GitHub](https://github.com/enkore/j4-dmenu-desktop) 
    - Intended as a replacement for `i3-dmenu-desktop`
-   - May need to be reinstalled to get working keybind(super)
+ - May need to be reinstalled to get working keybind(`Super`)
   16.  mpv     = [Arch Wiki](https://wiki.archlinux.org/title/mpv) | [GitHub](https://github.com/mpv-player/mpv) [.io](https://mpv.io) 
   17.  (oh-my-)zsh-git = [AUR](https://aur.archlinux.org/packages/oh-my-zsh-git) | [GitHub](https://github.com/ohmyzsh/ohmyzsh) | [.sh](https://ohmyz.sh/)
   18.  paru    = [AUR](https://aur.archlinux.org/packages/paru) | [GitHub](https://github.com/Morganamilo/paru)
@@ -202,4 +202,4 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
    - See [this link](https://nvchad.github.io/quickstart/install) for all uninstall/reinstall/install specifics
   28.  xfce4-terminal = [GitHub](https://github.com/xfce-mirror/xfce4-terminal) | [.org](https://docs.xfce.org/apps/terminal/start)
    - Default Terminal for speed and stability
-  29.  ytfzf-git = [AUR](https://aur.archlinux.org/packages/ytfzf) | [AUR-git](https://aur.archlinux.org/packages/ytfzf-git) | [GitHub](https://github.com/pystardust/ytfzf)
+  29.  ytfzf(-git) = [AUR](https://aur.archlinux.org/packages/ytfzf) | [AUR-git](https://aur.archlinux.org/packages/ytfzf-git) | [GitHub](https://github.com/pystardust/ytfzf)
