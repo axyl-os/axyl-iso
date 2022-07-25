@@ -159,22 +159,22 @@ A list of packages can be found in the `archiso` directory. Look for a `packages
 Or just [click here](archiso/packages.x86_64)
 
 Here's a brief overview of the main tools with relevent Arch Linux Wiki pages and other helpful info:
-1. Alacritty  = [Arch Wiki](https://wiki.archlinux.org/title/Alacritty) | [GitHub](https://github.com/alacritty/alacritty) | [.org](https://alacritty.org) | [Feat](https://github.com/alacritty/alacritty/blob/master/docs/features.md) | [AUR-git](https://aur.archlinux.org/packages/alacritty-git)
-   * Config should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/alacritty`).
-   * Does not come as default due to compatibility/stability issues.
-2. ani-cli    = [GitHub](https://github.com/pystardust/ani-cli) | [AUR](https://aur.archlinux.org/packages/ani-cli) | [AUR-git](https://aur.archlinux.org/packages/ani-cli-git)
-3. Conkeww    = [GitHub](https://github.com/angelofallars/conkeww)
-   * Made for Axyl, and easy to customize.
-4. cowfortune = [GitHub](https://github.com/anthraxx/cowfortune)
-   * Good fun.
-5. Devour     = [GitHub](https://github.com/salman-abedin/devour)
-6. Dunst      = [Arch Wiki](https://wiki.archlinux.org/title/Dunst) | [GitHub](https://github.com/dunst-project/dunst)
-   * `dunstrc` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/dunstrc`).
-7. Feh        = [Arch Wiki](https://wiki.archlinux.org/title/feh) | [GitHub](https://github.com/derf/feh)
-   * `.fehbg` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/.fehbg`).
-   * `~/.config/i3/wallpaper.jpg` is the default file referenced for the i3wm wallpaper
-8. FireFox    = [Arch Wiki](https://wiki.archlinux.org/title/firefox) | [.org](https://www.mozilla.org/en-US/firefox/new/)
-9. Geany      = [Wikipedia](https://en.wikipedia.org/wiki/Geany) | [Arch Wiki](https://wiki.archlinux.org/title/geany) | [GitHub](https://github.com/geany/geany) | [AUR-git](https://aur.archlinux.org/packages/geany-git)
-10.  j4-dmenu = [GitHub](https://github.com/enkore/j4-dmenu-desktop) | [AUR](https://aur.archlinux.org/packages/j4-dmenu-desktop)
-   * Intended as a replacement for `i3-dmenu-desktop`
-   * May need to be reinstalled to get working keybind(SUPER)( Win )
+  1. Alacritty  = [Arch Wiki](https://wiki.archlinux.org/title/Alacritty) | [GitHub](https://github.com/alacritty/alacritty) | [.org](https://alacritty.org) | [Feat](https://github.com/alacritty/alacritty/blob/master/docs/features.md) | [AUR-git](https://aur.archlinux.org/packages/alacritty-git)
+   - Config should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/alacritty`).
+   - Does not come as default due to compatibility/stability issues.
+  2. ani-cli    = [GitHub](https://github.com/pystardust/ani-cli) | [AUR](https://aur.archlinux.org/packages/ani-cli) | [AUR-git](https://aur.archlinux.org/packages/ani-cli-git)
+  3. Conkeww    = [GitHub](https://github.com/angelofallars/conkeww)
+   - Made for Axyl, and easy to customize.
+  4. cowfortune = [GitHub](https://github.com/anthraxx/cowfortune)
+   - Good fun.
+  5. Devour     = [GitHub](https://github.com/salman-abedin/devour)
+  6. Dunst      = [Arch Wiki](https://wiki.archlinux.org/title/Dunst) | [GitHub](https://github.com/dunst-project/dunst)
+   - `dunstrc` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/dunstrc`).
+  7. Feh        = [Arch Wiki](https://wiki.archlinux.org/title/feh) | [GitHub](https://github.com/derf/feh)
+   - `.fehbg` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/.fehbg`).
+   - `~/.config/i3/wallpaper.jpg` is the default file referenced for the i3wm wallpaper
+  8. FireFox    = [Arch Wiki](https://wiki.archlinux.org/title/firefox) | [.org](https://www.mozilla.org/en-US/firefox/new/)
+  9. Geany      = [Wikipedia](https://en.wikipedia.org/wiki/Geany) | [Arch Wiki](https://wiki.archlinux.org/title/geany) | [GitHub](https://github.com/geany/geany) | [AUR-git](https://aur.archlinux.org/packages/geany-git)
+  10.  j4-dmenu = [GitHub](https://github.com/enkore/j4-dmenu-desktop) | [AUR](https://aur.archlinux.org/packages/j4-dmenu-desktop)
+   - Intended as a replacement for `i3-dmenu-desktop`
+   - May need to be reinstalled to get working keybind(SUPER)( Win )
