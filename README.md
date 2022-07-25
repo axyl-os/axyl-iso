@@ -172,5 +172,5 @@ Here's a brief overview of the main tools with relevent Arch Linux Wiki pages an
    * `dunstrc` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/dunstrc`).
 7. Feh        = [Arch Wiki](https://wiki.archlinux.org/title/feh) | [GitHub](https://github.com/derf/feh)
    * `.fehbg` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/.fehbg`).
-   * `~/.config/i3/wallpaper.jpg` is the default file referenced for the i3 wallpaper
+   * `~/.config/i3/wallpaper.jpg` is the default file referenced for the i3wm wallpaper
 8. FireFox    =
