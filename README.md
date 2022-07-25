@@ -156,12 +156,21 @@ You may also join Axyl's [Discord server](https://discord.gg/qAXMkQdwjj) to ask 
 ## 🗳️ Post-Install Guide
 
 A list of packages can be found in the `archiso` directory. Look for a `packages.x86_64` file, for a comprehensive list.
+[lazylink](archiso/packages.x86.64)
 
 Here's a brief overview of the main tools with relevent Arch Linux Wiki pages and other helpful info:
-1. Alacritty  = [Arch Wiki](https://wiki.archlinux.org/title/Alacritty) | [GitHub](https://github.com/alacritty/alacritty) | [.org](https://alacritty.org) | [Feat](https://github.com/alacritty/alacritty/blob/master/docs/features.md)
-   * Config should be found in same directory as window manager `.config` folder(i.e. `~/.config/i3/alacritty/alacritty.yml`)
-   * Does not come as default due to compatibility/stability issues
-
-
-
-
+1. Alacritty  = [Arch Wiki](https://wiki.archlinux.org/title/Alacritty) | [GitHub](https://github.com/alacritty/alacritty) | [.org](https://alacritty.org) | [Feat](https://github.com/alacritty/alacritty/blob/master/docs/features.md) | [AUR-git](https://aur.archlinux.org/packages/alacritty-git)
+   * Config should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/alacritty`).
+   * Does not come as default due to compatibility/stability issues.
+2. ani-cli    = [GitHub](https://github.com/pystardust/ani-cli) | [AUR](https://aur.archlinux.org/packages/ani-cli) | [AUR-git](https://aur.archlinux.org/packages/ani-cli-git)
+3. Conkeww    = [GitHub](https://github.com/angelofallars/conkeww)
+   * Made for Axyl, and easy to customize.
+4. cowfortune = [GitHub](https://github.com/anthraxx/cowfortune)
+   * Good fun.
+5. Devour     = [GitHub](https://github.com/salman-abedin/devour)
+6. Dunst      = [Arch Wiki](https://wiki.archlinux.org/title/Dunst) | [GitHub](https://github.com/dunst-project/dunst)
+   * `dunstrc` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/dunstrc`).
+7. Feh        = [Arch Wiki](https://wiki.archlinux.org/title/feh) | [GitHub](https://github.com/derf/feh)
+   * `.fehbg` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/.fehbg`).
+   * `~/.config/i3/wallpaper.jpg` is the default file referenced for the i3 wallpaper
+8. FireFox    =
