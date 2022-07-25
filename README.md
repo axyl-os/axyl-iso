@@ -156,7 +156,7 @@ You may also join Axyl's [Discord server](https://discord.gg/qAXMkQdwjj) to ask 
 ## 🗳️ Post-Install Guide
 
 A list of packages can be found in the `archiso` directory. Look for a `packages.x86_64` file, for a comprehensive list.
-[lazylink](archiso/packages.x86.64)
+[lazylink](archiso/packages.x86_64)
 
 Here's a brief overview of the main tools with relevent Arch Linux Wiki pages and other helpful info:
 1. Alacritty  = [Arch Wiki](https://wiki.archlinux.org/title/Alacritty) | [GitHub](https://github.com/alacritty/alacritty) | [.org](https://alacritty.org) | [Feat](https://github.com/alacritty/alacritty/blob/master/docs/features.md) | [AUR-git](https://aur.archlinux.org/packages/alacritty-git)
