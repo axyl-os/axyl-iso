@@ -177,4 +177,4 @@ Here's a brief overview of the main tools with relevent Arch Linux Wiki pages an
 9. Geany      = [Wikipedia](https://en.wikipedia.org/wiki/Geany) | [Arch Wiki](https://wiki.archlinux.org/title/geany) | [GitHub](https://github.com/geany/geany) | [AUR-git](https://aur.archlinux.org/packages/geany-git)
 10. j4-dmenu  = [GitHub](https://github.com/enkore/j4-dmenu-desktop) | [AUR](https://aur.archlinux.org/packages/j4-dmenu-desktop)
    * Intended as a replacement for `i3-dmenu-desktop`
-   * May need to be reinstalled to get working keybind(windows button)(Space + Alt + Super)
+   * May need to be reinstalled to get working keybind(SUPER)( Win )
