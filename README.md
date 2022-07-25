@@ -157,5 +157,11 @@ You may also join Axyl's [Discord server](https://discord.gg/qAXMkQdwjj) to ask 
 
 A list of packages can be found in the `archiso` directory. Look for a `packages.x86_64` file, for a comprehensive list.
 
-Here's a brief overview of the main tools with relevent Arch Linux Wiki pages and other config tips:
-- Alacritty  =[Arch Wiki](https://wiki.archlinux.org/title/Alacritty) [GitHub](https://github.com/alacritty/alacritty)
+Here's a brief overview of the main tools with relevent Arch Linux Wiki pages and other helpful info:
+1. Alacritty  = [Arch Wiki](https://wiki.archlinux.org/title/Alacritty) | [GitHub](https://github.com/alacritty/alacritty) | [.org](https://alacritty.org) | [Feat](https://github.com/alacritty/alacritty/blob/master/docs/features.md)
+   * Config should be found in same directory as window manager `.config` folder(i.e. `~/.config/i3/alacritty/alacritty.yml`)
+   * Does not come as default due to compatibility/stability issues
+
+
+
+
