@@ -185,7 +185,7 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
   15.  j4-dmenu = [AUR](https://aur.archlinux.org/packages/j4-dmenu-desktop) | [GitHub](https://github.com/enkore/j4-dmenu-desktop) 
    - Intended as a replacement for `i3-dmenu-desktop`
  - May need to be reinstalled to get working keybind(`Super`)
-  16.  mpv     = [Arch Wiki](https://wiki.archlinux.org/title/mpv) | [GitHub](https://github.com/mpv-player/mpv) [.io](https://mpv.io) 
+  16.  mpv     = [Arch Wiki](https://wiki.archlinux.org/title/mpv) | [GitHub](https://github.com/mpv-player/mpv) | [.io](https://mpv.io) 
   17.  (oh-my-)zsh-git = [AUR](https://aur.archlinux.org/packages/oh-my-zsh-git) | [GitHub](https://github.com/ohmyzsh/ohmyzsh) | [.sh](https://ohmyz.sh/)
   18.  paru    = [AUR](https://aur.archlinux.org/packages/paru) | [GitHub](https://github.com/Morganamilo/paru)
   19.  picom   = [Arch Wiki](https://wiki.archlinux.org/title/Picom) | [GitHub](https://github.com/yshui/picom)
