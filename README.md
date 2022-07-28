@@ -171,12 +171,13 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
   5. cowfortune = [GitHub](https://github.com/anthraxx/cowfortune) | [cowsay Wikipedia](https://en.wikipedia.org/wiki/Cowsay)
    - Good fun.
   6. Dmenu      = [Arch Wiki](https://wiki.archlinux.org/title/dmenu) See also ->j4-dmenu-desktop
+   - Custom scripts and themeing(filename `colors`) info can be found in your `/usr/local/bin` directory.
   7. Devour     = [AUR](https://aur.archlinux.org/packages/devour) | [AUR-git](https://aur.archlinux.org/packages/devour) | [GitHub](https://github.com/salman-abedin/devour)
   8. Dunst      = [Arch Wiki](https://wiki.archlinux.org/title/Dunst) | [GitHub](https://github.com/dunst-project/dunst)
    - `dunstrc` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/dunstrc`).
   9. Feh        = [Arch Wiki](https://wiki.archlinux.org/title/feh) | [GitHub](https://github.com/derf/feh)
    - `.fehbg` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/.fehbg`).
-   - `~/.config/i3/wallpaper.jpg` is the default file referenced for the i3wm wallpaper
+   - `~/.config/i3/wallpaper.jpg` is the default file referenced for the i3wm wallpaper.
   10. FireFox    = [Arch Wiki](https://wiki.archlinux.org/title/firefox) | [.org](https://www.mozilla.org/en-US/firefox/new/)
   11. Geany      = [Arch Wiki](https://wiki.archlinux.org/title/geany) | [AUR-git](https://aur.archlinux.org/packages/geany-git) | [GitHub](https://github.com/geany/geany) | [Wikipedia](https://en.wikipedia.org/wiki/Geany) 
   12. Grub      = [Arch Wiki](https://wiki.archlinux.org/title/GRUB) | [GitHub](https://github.com/coreos/grub) | [Wikipedia](https://en.wikipedia.org/wiki/GNU_GRUB)
@@ -184,7 +185,7 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
   14. htop      = [.dev](https://htop.dev/) | [GitHub](https://github.com/htop-dev/htop) | [Wikipedia](https://en.wikipedia.org/wiki/Htop)
   15.  j4-dmenu = [AUR](https://aur.archlinux.org/packages/j4-dmenu-desktop) | [GitHub](https://github.com/enkore/j4-dmenu-desktop) 
    - Intended as a replacement for `i3-dmenu-desktop`
- - May need to be reinstalled to get working keybind(`Super`)
+ - May need to be reinstalled to get working keybind(`Super`).
   16.  mpv     = [Arch Wiki](https://wiki.archlinux.org/title/mpv) | [GitHub](https://github.com/mpv-player/mpv) | [.io](https://mpv.io) 
   17.  (oh-my-)zsh-git = [AUR](https://aur.archlinux.org/packages/oh-my-zsh-git) | [GitHub](https://github.com/ohmyzsh/ohmyzsh) | [.sh](https://ohmyz.sh/)
   18.  paru    = [AUR](https://aur.archlinux.org/packages/paru) | [GitHub](https://github.com/Morganamilo/paru)
@@ -200,6 +201,21 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
    - nvim issues seem to be fairly prevalent at the moment(Aug-2022) 
    - Axyl ships with a fairly standard nvchad theme that is easy to reinstall
    - See [this link](https://nvchad.github.io/quickstart/install) for all uninstall/reinstall/install specifics
+   - `axyl-vim` and `axyl-nvim` can also be reinstalled to resolve certain issues.
   28.  xfce4-terminal = [GitHub](https://github.com/xfce-mirror/xfce4-terminal) | [.org](https://docs.xfce.org/apps/terminal/start)
    - Default Terminal for speed and stability
   29.  ytfzf(-git) = [AUR](https://aur.archlinux.org/packages/ytfzf) | [AUR-git](https://aur.archlinux.org/packages/ytfzf-git) | [GitHub](https://github.com/pystardust/ytfzf)
+  
+  Axyl packages that differ from vanilla(to be expanded upon with detail and distinctions later):
+   1. axyl-release
+   2. axyl-wallpapers
+   3. axyl-conkeww
+   4. axyl-dmenu
+   5. axyl-fonts
+   6. axyl-i3wm
+   7. axyl-grub-theme
+   8. axyl-lxdm-theme
+   9. axyl-nvim
+  10. axyl-scripts
+  11. axyl-skeleton
+  12. axyl-vim
