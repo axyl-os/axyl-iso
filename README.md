@@ -200,7 +200,9 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
   27.  (neo)vim = [Neovim Arch Wiki](https://wiki.archlinux.org/title/Neovim) | [nvim.io](https://neovim.io/) | [Neovim GitHub](https://github.com/neovim/neovim) | [NvChad GitHub](https://github.com/NvChad/NvChad) | [NvChad.io](https://nvchad.github.io/) | [.org](https://www.vim.org/) | [rtorr](https://vim.rtorr.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Vim_(text_editor))
    - nvim issues seem to be fairly prevalent at the moment(Aug-2022) 
    - Axyl ships with a fairly standard nvchad theme that is easy to reinstall
-   - See [this link](https://nvchad.github.io/quickstart/install) for all uninstall/reinstall/install specifics
+   - See [this link](https://nvchad.github.io/quickstart/install) for all uninstall/reinstall/install specifics for NvChad
+   - **Don't forget, NvChad has a default <leader> = (Space) ; which you can use to toggle themes
+   * `(space)` -> `(t)` -> `(h)` nvChad themes
    - `axyl-vim` and `axyl-nvim` can also be reinstalled to resolve certain issues.
   28.  xfce4-terminal = [GitHub](https://github.com/xfce-mirror/xfce4-terminal) | [.org](https://docs.xfce.org/apps/terminal/start)
    - Default Terminal for speed and stability
