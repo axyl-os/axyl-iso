@@ -223,3 +223,11 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
   10. axyl-scripts
   11. axyl-skeleton
   12. axyl-vim
+  
+
+**Last Note:** _Each wm has a specific autostart script that is worth glancing at before investing significant time customizing your axyl_
+1. i3 = Directory `~/.config/i3/bin/` has an `autostart.sh` and a `launchbar.sh`
+2. bspwm = N/A
+3. dwm = Directory `~/.dwm/` has an `autostart.sh`
+4. xmonad = Directory `~/.xmonad/bin/` has an `autostart.sh` and a `launchbar.sh`
+5. qtile = Directory `~/.config/qtile/scripts/` has an `autostart.sh`
