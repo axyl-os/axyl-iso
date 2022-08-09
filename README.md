@@ -232,3 +232,6 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
 3. dwm = Directory `~/.dwm/` has an `autostart.sh`
 4. xmonad = Directory `~/.xmonad/bin/` has an `autostart.sh` and a `launchbar.sh`
 5. qtile = Directory `~/.config/qtile/scripts/` has an `autostart.sh`
+6. leftwm = N/A
+7. riverwm = N/A
+8. spectrwm = N/A
