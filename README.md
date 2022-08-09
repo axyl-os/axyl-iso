@@ -226,6 +226,7 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
   
 
 **Last Note:** _Each wm has a specific autostart script that is worth glancing at before investing significant time customizing your axyl_
+(For example, changing nvChad themes can initially seem bugged on i3 due to a login script that reapplies `nord`)
 1. i3 = Directory `~/.config/i3/bin/` has an `autostart.sh` and a `launchbar.sh`
 2. bspwm = N/A
 3. dwm = Directory `~/.dwm/` has an `autostart.sh`
