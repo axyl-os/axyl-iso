@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://venmo.com/u/Alexnander"><src="https://raw.githubusercontent.com/lknows/axol-assets/main/Screenshot_2022-08-10_23%3A33%3A00.svg"></a>
+<a href="https://venmo.com/u/Alexnander"><img src="https://raw.githubusercontent.com/lknows/axol-assets/main/Screenshot_2022-08-10_23%3A33%3A00.svg"></a>
 </p>
 
 <p align="center">
