@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.paypal.com/donate?hosted_button_id=GTLF6LZ5LRSE4"><img width="32px" src="https://raw.githubusercontent.com/Kungger-git/files/master/imgs/ppal.png" alt="Support my work via Paypal"></a>
+<a href="https://venmo.com/u/Alexnander"><src="https://raw.githubusercontent.com/lknows/axol-assets/main/Screenshot_2022-08-10_23%3A33%3A00.svg"></a>
 </p>
 
 <p align="center">
