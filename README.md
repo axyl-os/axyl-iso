@@ -56,7 +56,8 @@
 - [🎁 Installation](#install)
 - [🖥 Keybindings](#keybinds)
 - [❓ Getting Help](#techsupport)
-- [🗳️ Post-Install Guide](#post)
+- [📕 Post-Install Guide](#post)
+- [📖 Wiki-More Information](https://github.com/lknows/axyl-iso/wiki)
 
 <a id="gal"></a>
 ## 📷 At First Glance
