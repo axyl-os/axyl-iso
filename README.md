@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://axyl-os.github.io" target="_blank"><img src="https://raw.githubusercontent.com/lknows/axyl-iso/master/alogo2.svg" width="250px" height="auto"/></a>
+<a href="https://axyl-os.github.io" target="_blank"><img src="https://raw.githubusercontent.com/lknows/axyl-iso/master/axol.svg" width="250px" height="auto"/></a>
 <!---<a href="https://axyl-os.github.io" target="_blank"><img src="https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-logo.svg" width="250px" height="auto"/></a>
 --->
 </p>
