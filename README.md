@@ -93,7 +93,7 @@ XMonad <br><img src="https://axyl-os.github.io/assets/img/window-managers/xmonad
 ## 🎁 Installation
 <img src="https://user-images.githubusercontent.com/39676098/141447471-75b2f8ee-43dd-4c0b-ac59-a3964ed618d8.png" align=right width=400px>
 
-**Recommended:** _See the `installation-scripts` directory (after cloning, of course)for build scripts to make your own arcolinux-esque iso_
+**Recommended:** _See the `installation-scripts` directory (after cloning, of course)for build scripts (re)`build.sh` to make your own updated iso_(This is the arco way of installation and yields best results)
 
 -OR-
 
