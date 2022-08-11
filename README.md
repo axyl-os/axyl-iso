@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-<a href="https://venmo.com/u/Alexnander"><img src="https://raw.githubusercontent.com/lknows/axol-assets/main/Screenshot_2022-08-10_23%3A33%3A00.svg"></a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-CD8335?style=flat-square">
   <img src="https://img.shields.io/github/downloads/axyl-os/axyl-iso/total?label=Downloads&logo=github&color=6EA340&style=flat-square">
   <img src="https://img.shields.io/github/stars/axyl-os/axyl-iso?label=Stars&color=4C87C1&style=flat-square">
@@ -28,6 +24,10 @@
   <a href="https://github.com/axyl-os/axyl-iso/releases">
     <img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/download-now.svg" height=65px>
   </a>
+</p>
+
+<p align="center">
+<a href="https://venmo.com/u/Alexnander"><img src="https://raw.githubusercontent.com/lknows/axol-assets/main/Screenshot_2022-08-10_23%3A33%3A00.svg"></a>
 </p>
 
 <p align="center">
