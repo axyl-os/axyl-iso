@@ -193,6 +193,9 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
    - May need to be reinstalled to get working keybind(`Super`).
   16.  mpv     = Cli video player[Arch Wiki](https://wiki.archlinux.org/title/mpv) | [GitHub](https://github.com/mpv-player/mpv) | [.io](https://mpv.io) 
   17.  (oh-my-)zsh-git = [AUR](https://aur.archlinux.org/packages/oh-my-zsh-git) | [GitHub](https://github.com/ohmyzsh/ohmyzsh) | [.sh](https://ohmyz.sh/)
+   - It should be noted that axol comes with a custom `~/.zshrc-personal` that has a few defaults worth checking.
+   - Namely, lines 90-108 ensure every new prompt is begun in vim mode which overrides certain attributes such as cursor style
+   - Previously mentioned lines can all be commented out to disable such behavior. See this for more info: https://github.com/axyl-os/axyl-iso/issues/95
   18.  paru    = Feature packed AUR helper [AUR](https://aur.archlinux.org/packages/paru) | [GitHub](https://github.com/Morganamilo/paru)
   19.  picom   = A lightweight compositor for X11 [Arch Wiki](https://wiki.archlinux.org/title/Picom) | [GitHub](https://github.com/yshui/picom)
   20.  polybar = A fast status bar [Arch Wiki](https://wiki.archlinux.org/title/Polybar) | [GitHub](https://github.com/polybar/polybar)
