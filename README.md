@@ -16,12 +16,12 @@
 </p>
 
 <h1 align="center">
-  Welcome to Axyl.
+  Welcome to Axol.
 </h1>
 
 <p align="center">
-  Introducing a new minimal Arch Linux-based distro.<br>
-  Axyl focuses fully on tiling WMs. Level up your productivity with i3, bspwm, dwm and more.
+  Axyl is currently in limbo, in the meantime Axol is the current fork<br>
+  Axol focuses fully on tiling WMs. Level up your productivity with i3, bspwm, dwm and more.
 </p>
 
 <p align="center">
