@@ -17,7 +17,7 @@
 
 <p align="center">
   Axyl is currently in limbo, in the meantime Axol is the current fork<br>
-  Axol focuses fully on tiling WMs. Level up your productivity with bspwm, dwm, i3wm, leftwm, qtile, riverwm, spectrwm, and xmonad.
+  Axol focuses fully on tiling WMs. Level up your productivity with bspwm, dwm, i3wm, leftwm, qtile, and xmonad.
 </p>
 
 <p align="center">
