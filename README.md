@@ -157,7 +157,7 @@ If you need help or tech support for your Axyl installation, feel free to file a
 You may also join Axyl's [Discord server](https://discord.gg/qAXMkQdwjj) to ask for tech support and general inquiries.
 
 <a id="post"></a>
-## 🗳️ Post-Install Guide
+## 📕 Post-Install Guide/ General Tools Overview
 
 A list of packages can be found in the `archiso` directory. Look for a `packages.x86_64` file, for a comprehensive list.
 Or just [click here](archiso/packages.x86_64)
