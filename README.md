@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/github/issues/axyl-os/axyl-iso?color=87599A&style=flat-square">
 </p>
 
+<p align="center">
+  <a href="https://venmo.com/u/Alexnander>
+    <img src="https://raw.githubusercontent.com/lknows/axol-assets/main/venmo.svg">
+  </a>
+</p>
+
 <h1 align="center">
   Welcome to Axol.
 </h1>
