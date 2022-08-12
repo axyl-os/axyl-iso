@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://venmo.com/u/Alexnander>
-    <img src="https://raw.githubusercontent.com/lknows/axol-assets/main/venmo.svg">
+  <a href="https://venmo.com/u/Alexnander">
+    <img src="https://raw.githubusercontent.com/lknows/axol-assets/main/venmo.svg" width="60px" height="auto"/>
   </a>
 </p>
 
