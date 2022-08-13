@@ -15,6 +15,10 @@
   <a href="https://venmo.com/u/Alexnander">
     <img src="https://raw.githubusercontent.com/lknows/axol-assets/main/venmo.svg" width="60px" height="auto"/>
   </a>
+  <div size='24px', align="center">
+<img src="https://img.shields.io/liberapay/goal/lknows.svg?logo=liberapay"><img src="https://img.shields.io/liberapay/patrons/lknows.svg?logo=liberapay">
+</div>
+
 </p>
 
 <h1 align="center">
