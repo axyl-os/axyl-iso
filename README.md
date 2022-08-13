@@ -248,3 +248,8 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
 6. leftwm = N/A
 7. riverwm = N/A
 8. spectrwm = N/A
+***
+***
+## Common Frustrations/ Recommendations Post-Install
+1. One should take a glance at the `~/.zshrc` and `~/.zshrc-personal` files for some aliases that may be unexpected defaults.
+  --For example, `rm` gets aliased to `rm -i` rather than `rm -I`. A few `devour` aliases can be found as well.
