@@ -54,6 +54,7 @@
 - [🎁 Installation](#install)
 - [🖥 Keybindings](#keybinds)
 - [❓ Getting Help](#techsupport)
+- [📚 Post-Install Overview](#post)
 
 <a id="gal"></a>
 ## 📷 At First Glance
@@ -146,3 +147,93 @@ Axyl is built on top of Arch Linux. For documentation on [pacman](https://wiki.a
 If you need help or tech support for your Axyl installation, feel free to file an issue in our [issue tracker](https://github.com/axyl-os/axyl-iso/issues) so we can assist you.
 
 You may also join Axyl's [Discord server](https://discord.gg/qAXMkQdwjj) to ask for tech support and general inquiries.
+
+<a id="post"></a>
+## 📚 Post-Install Overview
+
+A list of packages can be found in the `archiso` directory. Look for a `packages.x86_64` file, for a comprehensive list.
+Or just [click here](https://github.com/axyl-os/axyl-iso/blob/master/archiso/packages.x86_64)
+
+<!---Arch Wiki, AUR-git, Feat, GitHub, .io, .org, .sh, Wikipedia, etc
+--->
+Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki links and other helpful info:
+  1. Alacritty  = GPU-accelerated Terminal Emulator [Arch Wiki](https://wiki.archlinux.org/title/Alacritty) | [AUR-git](https://aur.archlinux.org/packages/alacritty-git) | [Feat](https://github.com/alacritty/alacritty/blob/master/docs/features.md) | [GitHub](https://github.com/alacritty/alacritty) | [.org](https://alacritty.org)
+   - Config should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/alacritty`).
+   - Does not come as default due to compatibility/stability issues.
+  2. ani-cli    = Browse/Play anime via cli [AUR](https://aur.archlinux.org/packages/ani-cli) | [AUR-git](https://aur.archlinux.org/packages/ani-cli-git) | [GitHub](https://github.com/pystardust/ani-cli) 
+  3. Cava       = Audio Visualizer for ALSA [AUR](https://aur.archlinux.org/packages/cava) | [GitHub](https://github.com/karlstav/cava)
+  4. Conkeww    = Framework for Eww [GitHub](https://github.com/angelofallars/conkeww) | [Conky ArchWiki](https://wiki.archlinux.org/title/conky) | [Conky GitHub](https://github.com/brndnmtthws/conky)
+   - Made for Axyl, and easy to customize.
+  5. cowfortune = Configurable fortune cookie proclaiming cow [GitHub](https://github.com/anthraxx/cowfortune) | [cowsay Wikipedia](https://en.wikipedia.org/wiki/Cowsay)
+   - Good fun.
+  6. Dmenu      = Dynamic menu (Launcher) [Arch Wiki](https://wiki.archlinux.org/title/dmenu) See also ->j4-dmenu-desktop
+   - Custom scripts and themeing(filename `colors`) info can be found in your `/usr/local/bin` directory.
+  7. Devour     = X11 window swallower [AUR](https://aur.archlinux.org/packages/devour) | [AUR-git](https://aur.archlinux.org/packages/devour) | [GitHub](https://github.com/salman-abedin/devour)
+   - It should be noted that Axyl comes with aliases that force devour with these tools: mpv, pcmanfm, sxiv, vlc, and zathura
+   - This is interesting because Axyl doesn't come with pcmanfm or vlc lool
+  8. Dunst      = Notification daemon [Arch Wiki](https://wiki.archlinux.org/title/Dunst) | [GitHub](https://github.com/dunst-project/dunst)
+   - `dunstrc` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/dunstrc`).
+  9. Feh        = Image Viewer [Arch Wiki](https://wiki.archlinux.org/title/feh) | [GitHub](https://github.com/derf/feh)
+   - `.fehbg` should be found in same directory as window manager's `.config` folder(i.e. `~/.config/i3/.fehbg`).
+   - `~/.config/i3/wallpaper.jpg` is the default file referenced for the i3wm wallpaper.
+  10. FireFox    = Web browser[Arch Wiki](https://wiki.archlinux.org/title/firefox) | [.org](https://www.mozilla.org/en-US/firefox/new/)
+  11. Geany      = GUI text editor [Arch Wiki](https://wiki.archlinux.org/title/geany) | [AUR-git](https://aur.archlinux.org/packages/geany-git) | [GitHub](https://github.com/geany/geany) | [Wikipedia](https://en.wikipedia.org/wiki/Geany) 
+  12. Grub      = GRand Unified Bootloader [Arch Wiki](https://wiki.archlinux.org/title/GRUB) | [GitHub](https://github.com/coreos/grub) | [Wikipedia](https://en.wikipedia.org/wiki/GNU_GRUB)
+  13. gtop      = System Monitoring dashboard for terminal [Github](https://github.com/aksakalli/gtop)
+  14. htop      = Interactive process viewer [.dev](https://htop.dev/) | [GitHub](https://github.com/htop-dev/htop) | [Wikipedia](https://en.wikipedia.org/wiki/Htop)
+  15.  j4-dmenu = A fast desktop menu [AUR](https://aur.archlinux.org/packages/j4-dmenu-desktop) | [GitHub](https://github.com/enkore/j4-dmenu-desktop) 
+   - Intended as a replacement for `i3-dmenu-desktop`
+   - May need to be reinstalled to get working keybind(`Super`).
+  16.  mpv     = Cli video player[Arch Wiki](https://wiki.archlinux.org/title/mpv) | [GitHub](https://github.com/mpv-player/mpv) | [.io](https://mpv.io) 
+  17.  (oh-my-)zsh-git = [AUR](https://aur.archlinux.org/packages/oh-my-zsh-git) | [GitHub](https://github.com/ohmyzsh/ohmyzsh) | [.sh](https://ohmyz.sh/)
+  18.  paru    = Feature packed AUR helper [AUR](https://aur.archlinux.org/packages/paru) | [GitHub](https://github.com/Morganamilo/paru)
+  19.  picom   = A lightweight compositor for X11 [Arch Wiki](https://wiki.archlinux.org/title/Picom) | [GitHub](https://github.com/yshui/picom)
+  20.  polybar = A fast status bar [Arch Wiki](https://wiki.archlinux.org/title/Polybar) | [GitHub](https://github.com/polybar/polybar)
+  21.  ranger  = A VIM-inspired filemanager for the console [Arch Wiki](https://wiki.archlinux.org/title/ranger) | [GitHub](https://github.com/ranger/ranger) | [Wikipedia](https://en.wikipedia.org/wiki/Ranger_(file_manager))
+  22.  sxhkd   = X hotkey daemon (made by bspwm dev) [Arch Wiki](https://wiki.archlinux.org/title/Sxhkd) | [GitHub](https://github.com/baskerville/sxhkd)
+  23.  thunar  = GUI file manager [Arch Wiki](https://wiki.archlinux.org/title/thunar) | [Gentoo Wiki](https://wiki.gentoo.org/wiki/Thunar) | [GitHub](https://github.com/xfce-mirror/thunar) | [.org](https://docs.xfce.org/xfce/thunar/start) | [Wikipedia](https://en.wikipedia.org/wiki/Thunar)
+  24.  tmux    = Terminal multiplexer [Arch Wiki](https://wiki.archlinux.org/title/tmux) | [GitHub](https://github.com/tmux/tmux/wiki) | [Wikipedia](https://en.wikipedia.org/wiki/Tmux)
+  25.  ueberzug = I think its trying to be a superior w3mimgdisplay, idk. [AUR-git](https://aur.archlinux.org/packages/python-ueberzug-git) | [GitHub](https://github.com/seebye/ueberzug)
+  26.  viewnior = Elegant image viewer for minimalism [GitHub](https://github.com/hellosiyan/Viewnior)
+  27.  (neo)vim = Ultimate text editor with lua scripting now [Neovim Arch Wiki](https://wiki.archlinux.org/title/Neovim) | [nvim.io](https://neovim.io/) | [Neovim GitHub](https://github.com/neovim/neovim) | [NvChad GitHub](https://github.com/NvChad/NvChad) | [NvChad.io](https://nvchad.github.io/) | [.org](https://www.vim.org/) | [rtorr](https://vim.rtorr.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Vim_(text_editor))
+   - nvim issues seem to be fairly prevalent at the moment(Aug-2022) 
+   - Axyl ships with a fairly standard nvchad theme that is easy to reinstall
+   - See [this link](https://nvchad.github.io/quickstart/install) for all uninstall/reinstall/install specifics for NvChad
+   - **Don't forget, NvChad has a default <\leader> = (Space) ; which you can use to toggle themes**
+   * `(space)` -> `(t)` -> `(h)` -> nvChad themes
+   - `axyl-vim` and `axyl-nvim` can also be reinstalled to resolve certain issues.
+  28.  xfce4-terminal   = OG Terminal Emulator [GitHub](https://github.com/xfce-mirror/xfce4-terminal) | [.org](https://docs.xfce.org/apps/terminal/start)
+   - Default Terminal for speed and stability
+  29.  ytfzf(-git) = A posix script to find and watch YouTube videos [AUR](https://aur.archlinux.org/packages/ytfzf) | [AUR-git](https://aur.archlinux.org/packages/ytfzf-git) | [GitHub](https://github.com/pystardust/ytfzf)
+  
+  Axyl packages that differ from vanilla(to be expanded upon with detail and distinctions later):
+   1. axyl-release
+   2. axyl-wallpapers
+   3. axyl-conkeww
+   4. axyl-dmenu
+   5. axyl-fonts
+   6. axyl-i3wm
+   7. axyl-grub-theme
+   8. axyl-lxdm-theme
+   9. axyl-nvim
+  10. axyl-scripts
+  11. axyl-skeleton
+  12. axyl-vim
+  
+
+**Last Note:** _Each wm has a specific autostart script that is worth glancing at before investing significant time customizing your axyl_
+(For example, changing nvChad themes can initially seem bugged on i3 due to a login script that reapplies `nord`)
+1. i3 = Directory `~/.config/i3/bin/` has an `autostart.sh` and a `launchbar.sh`
+2. bspwm = Directory `~/.config/bspwm/` has a `bspwmrc`
+3. dwm = Directory `~/.dwm/` has an `autostart.sh`
+4. xmonad = Directory `~/.xmonad/bin/` has an `autostart.sh` and a `launchbar.sh`
+5. qtile = Directory `~/.config/qtile/scripts/` has an `autostart.sh`
+6. leftwm = Directory `~/.config/leftwm/themes/current/` has an `up`
+7. riverwm = Directory `~/.config/river/` has an `init`
+8. spectrwm = Directory `~/.config/spectrwm/` has an `autostart.sh`
+***
+***
+## Common Frustrations/ Recommendations Post-Install
+1. One should take a glance at the `~/.zshrc` and `~/.zshrc-personal` files for some aliases that may be unexpected defaults.
+  --For example, `rm` gets aliased to `rm -i` rather than `rm -I`. A few `devour` aliases can be found as well.
+  --If you are unfamiliar with `~/.zshrc-personal` as a convention, I believe it started with [arcolinux](https://arcolinux.com/) as a way to ensure certain aliases remain untouched across different environments. Will correct if wrong.
