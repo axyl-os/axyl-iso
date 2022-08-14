@@ -242,17 +242,17 @@ Here's a brief overview of the main (30ish) tools with relevent Arch Linux Wiki 
   12. axyl-vim
   
 
-**Last Note:** _Each wm has a specific autostart script that is worth glancing at before investing significant time customizing your axol_
+**Last Note:** _Each wm has a specific autostart script that is worth glancing at before investing significant time customizing your axyl_
 (For example, changing nvChad themes can initially seem bugged on i3 due to a login script that reapplies `nord`)
 1. i3 = Directory `~/.config/i3/bin/` has an `autostart.sh` and a `launchbar.sh`
-2. bspwm = N/A
+2. bspwm = Directory `~/.config/bspwm/` has a `bspwmrc`
 3. dwm = Directory `~/.dwm/` has an `autostart.sh`
 4. xmonad = Directory `~/.xmonad/bin/` has an `autostart.sh` and a `launchbar.sh`
 5. qtile = Directory `~/.config/qtile/scripts/` has an `autostart.sh`
-6. leftwm = N/A
-7. riverwm = N/A
-8. spectrwm = N/A
-****
+6. leftwm = Directory `~/.config/leftwm/themes/current/` has an `up`
+7. riverwm = Directory `~/.config/river/` has an `init`
+8. spectrwm = Directory `~/.config/spectrwm/` has an `autostart.sh`
+***
 ***
 ## Common Frustrations/ Recommendations Post-Install
 1. One should take a glance at the `~/.zshrc` and `~/.zshrc-personal` files for some aliases that may be unexpected defaults.
