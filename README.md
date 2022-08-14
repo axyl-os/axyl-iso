@@ -45,6 +45,7 @@
   <a href="https://dwm.suckless.org" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/dwm-shadows.svg" alt="dwm" width=90px></a>
   <a href="https://xmonad.org" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/xmonad.svg" alt="xmonad" width=90px></a>
   <a href="http://www.qtile.org/" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/qtile-shadows.svg" alt="qtile" width=90px></a>
+  <a href="https://leftwm.org/" target="_blank"><img src="https://raw.githubusercontent.com/lknows/axol-assets/main/leftwm.svg" alt="leftwm" width=90px></a>
 </p>
 
 ## Contents
