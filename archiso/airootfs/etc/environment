@@ -5,3 +5,5 @@
 #
 QT_QPA_PLATFORMTHEME=qt5ct
 EDITOR=nvim
+_JAVA_AWT_WM_NONREPARENTING=1
+_JAVA_OPTIONS=-Djava.util.prefs.userRoot="${XDG_CONFIG_HOME:-$HOME/.config}/java"
